@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301399063979",
+    "firebase_url": "https://knockknockcloud.firebaseio.com",
+    "project_id": "knockknockcloud",
+    "storage_bucket": "knockknockcloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301399063979:android:35ffc92824d843367de6ee",
+        "android_client_info": {
+          "package_name": "com.example.knockknock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301399063979-ncsi5vhi1erloa3uevvo6sl2q7bmsjnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.knockknock",
+            "certificate_hash": "6ba79f07f7caa9f0eda5386078f796131f951a66"
+          }
+        },
+        {
+          "client_id": "301399063979-bk50ctirqs2i8bqeuvctaidnf9l90ug0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzriuFYhX4IVVolS_wEkjVMjCEwbtlBJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301399063979-bk50ctirqs2i8bqeuvctaidnf9l90ug0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
